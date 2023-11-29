@@ -20,7 +20,7 @@ a {text-decoration: none;}
         font-family:"Raleway", sans-serif;
         font-size: 18px;
         font-weight: 700;
-        line-height: 1.166;
+        line-height: 1.17;
         letter-spacing: 0.54px;
         text-transform: uppercase;}
 
@@ -130,16 +130,6 @@ a {text-decoration: none;}
         letter-spacing: 0.32px;}
 
     .footer {background-color: #2E2F42;}
-
-    .logo-f {
-        color: #4D5AE5;
-        font-family: "Raleway", sans-serif;
-        font-size: 18px;
-        font-weight: 700;
-        line-height: 1.17;
-        letter-spacing: 0.54px;
-        text-transform: uppercase;
-    }
 
     .logo-footer {color:#F4F4FD;
         font-family: "Raleway", sans-serif;
