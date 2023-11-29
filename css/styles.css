@@ -70,12 +70,14 @@ a {text-decoration: none;}
             font-size: 16px;
             font-weight: 500;
             line-height: 1.5;
-            letter-spacing: 0.64px;}
+            letter-spacing: 0.64px;
+            cursor: pointer;}
 
         .button:hover,
         .button:focus {border-radius: 4px;
             background-color:#404BBF;
             box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);}
+        
 
     .title-feature {color:#2E2F42;
         font-size: 20px;
@@ -85,7 +87,6 @@ a {text-decoration: none;}
 
     .text-feature {color:#434455;
         font-size: 16px;
-        font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.32px;}
 
@@ -109,7 +110,6 @@ a {text-decoration: none;}
     .text-name {color: #434455;
         text-align: center;
         font-size: 16px;
-        font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.32px;}
 
@@ -129,7 +129,6 @@ a {text-decoration: none;}
 
     .text-portfolio {color:#434455;
         font-size: 16px;
-        font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.32px;}
 
@@ -145,6 +144,5 @@ a {text-decoration: none;}
 
     .text-footer {color:#F4F4FD;
         font-size: 16px;
-        font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.32px;}
